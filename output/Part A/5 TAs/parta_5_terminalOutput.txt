@@ -1,0 +1,452 @@
+loaded exam for student 1
+TA 1: claiming question 1
+TA 1: marking exam 1 question 1
+TA 2: claiming question 2
+TA 2: marking exam 1 question 2
+TA 3: claiming question 3
+TA 3: marking exam 1 question 3
+TA 4: claiming question 4
+TA 4: marking exam 1 question 4
+TA 5: claiming question 5
+TA 5: marking exam 1 question 5
+TA 4: finished marking exam 1 question 4
+loaded exam for student 2
+TA 4: reviewing rubric
+TA 3: finished marking exam 2 question 3
+TA 3: claiming question 1
+TA 3: marking exam 2 question 1
+TA 2: finished marking exam 2 question 2
+TA 2: claiming question 2
+TA 2: marking exam 2 question 2
+TA 5: finished marking exam 2 question 5
+TA 5: claiming question 3
+TA 5: marking exam 2 question 3
+TA 1: finished marking exam 2 question 1
+TA 1: claiming question 4
+TA 1: marking exam 2 question 4
+TA 3: finished marking exam 2 question 1
+TA 3: claiming question 5
+TA 3: marking exam 2 question 5
+TA 1: finished marking exam 2 question 4
+loaded exam for student 3
+TA 1: reviewing rubric
+TA 4: correcting rubric question 2
+TA 4: rubric question 2 changed from 'B' to 'C'
+TA 2: finished marking exam 3 question 2
+TA 2: claiming question 1
+TA 2: marking exam 3 question 1
+TA 5: finished marking exam 3 question 3
+TA 5: claiming question 2
+TA 5: marking exam 3 question 2
+TA 3: finished marking exam 3 question 5
+TA 3: claiming question 3
+TA 3: marking exam 3 question 3
+TA 4: correcting rubric question 4
+TA 4: rubric question 4 changed from 'D' to 'E'
+TA 5: finished marking exam 3 question 2
+TA 5: claiming question 4
+TA 5: marking exam 3 question 4
+TA 2: finished marking exam 3 question 1
+TA 2: claiming question 5
+TA 2: marking exam 3 question 5
+loaded exam for student 4
+TA 4: reviewing rubric
+TA 3: finished marking exam 4 question 3
+TA 3: claiming question 1
+TA 3: marking exam 4 question 1
+TA 1: correcting rubric question 4
+TA 1: rubric question 4 changed from 'E' to 'F'
+TA 5: finished marking exam 4 question 4
+TA 5: claiming question 2
+TA 5: marking exam 4 question 2
+TA 1: correcting rubric question 5
+TA 1: rubric question 5 changed from 'E' to 'F'
+TA 1: claiming question 3
+TA 1: marking exam 4 question 3
+TA 2: finished marking exam 4 question 5
+TA 2: claiming question 4
+TA 2: marking exam 4 question 4
+TA 4: correcting rubric question 2
+TA 4: rubric question 2 changed from 'C' to 'D'
+TA 3: finished marking exam 4 question 1
+TA 3: claiming question 5
+TA 3: marking exam 4 question 5
+TA 5: finished marking exam 4 question 2
+loaded exam for student 5
+TA 5: reviewing rubric
+TA 1: finished marking exam 5 question 3
+TA 1: claiming question 1
+TA 1: marking exam 5 question 1
+TA 5: correcting rubric question 1
+TA 5: rubric question 1 changed from 'A' to 'B'
+TA 2: finished marking exam 5 question 4
+TA 2: claiming question 2
+TA 2: marking exam 5 question 2
+TA 3: finished marking exam 5 question 5
+TA 3: claiming question 3
+TA 3: marking exam 5 question 3
+TA 5: correcting rubric question 2
+TA 5: rubric question 2 changed from 'D' to 'E'
+TA 4: claiming question 4
+TA 4: marking exam 5 question 4
+TA 1: finished marking exam 5 question 1
+TA 1: claiming question 5
+TA 1: marking exam 5 question 5
+TA 5: correcting rubric question 3
+TA 5: rubric question 3 changed from 'C' to 'D'
+TA 2: finished marking exam 5 question 2
+loaded exam for student 6
+TA 2: reviewing rubric
+TA 3: finished marking exam 6 question 3
+TA 3: claiming question 1
+TA 3: marking exam 6 question 1
+TA 1: finished marking exam 6 question 5
+TA 1: claiming question 2
+TA 1: marking exam 6 question 2
+TA 4: finished marking exam 6 question 4
+TA 4: claiming question 3
+TA 4: marking exam 6 question 3
+TA 5: claiming question 4
+TA 5: marking exam 6 question 4
+TA 2: correcting rubric question 1
+TA 2: rubric question 1 changed from 'B' to 'C'
+TA 3: finished marking exam 6 question 1
+TA 3: claiming question 5
+TA 3: marking exam 6 question 5
+TA 1: finished marking exam 6 question 2
+loaded exam for student 7
+TA 1: reviewing rubric
+TA 4: finished marking exam 7 question 3
+TA 4: claiming question 1
+TA 4: marking exam 7 question 1
+TA 5: finished marking exam 7 question 4
+TA 5: claiming question 2
+TA 5: marking exam 7 question 2
+TA 1: correcting rubric question 1
+TA 1: rubric question 1 changed from 'C' to 'D'
+TA 4: finished marking exam 7 question 1
+TA 4: claiming question 3
+TA 4: marking exam 7 question 3
+TA 2: correcting rubric question 4
+TA 2: rubric question 4 changed from 'F' to 'G'
+TA 3: finished marking exam 7 question 5
+TA 3: claiming question 4
+TA 3: marking exam 7 question 4
+TA 2: claiming question 5
+TA 2: marking exam 7 question 5
+TA 1: correcting rubric question 3
+TA 1: rubric question 3 changed from 'D' to 'E'
+TA 5: finished marking exam 7 question 2
+loaded exam for student 8
+TA 5: reviewing rubric
+TA 4: finished marking exam 8 question 3
+TA 4: claiming question 1
+TA 4: marking exam 8 question 1
+TA 2: finished marking exam 8 question 5
+TA 2: claiming question 2
+TA 2: marking exam 8 question 2
+TA 3: finished marking exam 8 question 4
+TA 3: claiming question 3
+TA 3: marking exam 8 question 3
+TA 5: correcting rubric question 2
+TA 5: rubric question 2 changed from 'E' to 'F'
+TA 1: claiming question 4
+TA 1: marking exam 8 question 4
+TA 3: finished marking exam 8 question 3
+TA 3: claiming question 5
+TA 3: marking exam 8 question 5
+TA 4: finished marking exam 8 question 1
+loaded exam for student 9
+TA 4: reviewing rubric
+TA 2: finished marking exam 9 question 2
+TA 2: claiming question 1
+TA 2: marking exam 9 question 1
+TA 1: finished marking exam 9 question 4
+TA 1: claiming question 2
+TA 1: marking exam 9 question 2
+TA 5: correcting rubric question 4
+TA 5: rubric question 4 changed from 'G' to 'H'
+TA 4: correcting rubric question 1
+TA 4: rubric question 1 changed from 'D' to 'E'
+TA 5: correcting rubric question 5
+TA 5: rubric question 5 changed from 'F' to 'G'
+TA 5: claiming question 3
+TA 5: marking exam 9 question 3
+TA 3: finished marking exam 9 question 5
+TA 3: claiming question 4
+TA 3: marking exam 9 question 4
+TA 4: correcting rubric question 2
+TA 4: rubric question 2 changed from 'F' to 'G'
+TA 2: finished marking exam 9 question 1
+TA 2: claiming question 5
+TA 2: marking exam 9 question 5
+TA 4: correcting rubric question 3
+TA 4: rubric question 3 changed from 'E' to 'F'
+TA 5: finished marking exam 9 question 3
+loaded exam for student 10
+TA 5: reviewing rubric
+TA 1: finished marking exam 10 question 2
+TA 1: claiming question 1
+TA 1: marking exam 10 question 1
+TA 3: finished marking exam 10 question 4
+TA 3: claiming question 2
+TA 3: marking exam 10 question 2
+TA 4: correcting rubric question 4
+TA 4: rubric question 4 changed from 'H' to 'I'
+TA 2: finished marking exam 10 question 5
+TA 2: claiming question 3
+TA 2: marking exam 10 question 3
+TA 4: correcting rubric question 5
+TA 4: rubric question 5 changed from 'G' to 'H'
+TA 4: claiming question 4
+TA 4: marking exam 10 question 4
+TA 3: finished marking exam 10 question 2
+TA 3: claiming question 5
+TA 3: marking exam 10 question 5
+TA 1: finished marking exam 10 question 1
+loaded exam for student 11
+TA 1: reviewing rubric
+TA 2: finished marking exam 11 question 3
+TA 2: claiming question 1
+TA 2: marking exam 11 question 1
+TA 3: finished marking exam 11 question 5
+TA 3: claiming question 2
+TA 3: marking exam 11 question 2
+TA 1: correcting rubric question 1
+TA 1: rubric question 1 changed from 'E' to 'F'
+TA 4: finished marking exam 11 question 4
+TA 4: claiming question 3
+TA 4: marking exam 11 question 3
+TA 5: correcting rubric question 4
+TA 5: rubric question 4 changed from 'I' to 'J'
+TA 3: finished marking exam 11 question 2
+TA 3: claiming question 4
+TA 3: marking exam 11 question 4
+TA 5: correcting rubric question 5
+TA 5: rubric question 5 changed from 'H' to 'I'
+TA 5: claiming question 5
+TA 5: marking exam 11 question 5
+TA 2: finished marking exam 11 question 1
+loaded exam for student 12
+TA 2: reviewing rubric
+TA 4: finished marking exam 12 question 3
+TA 4: claiming question 1
+TA 4: marking exam 12 question 1
+TA 1: correcting rubric question 4
+TA 1: rubric question 4 changed from 'J' to 'K'
+TA 5: finished marking exam 12 question 5
+TA 5: claiming question 2
+TA 5: marking exam 12 question 2
+TA 3: finished marking exam 12 question 4
+TA 3: claiming question 3
+TA 3: marking exam 12 question 3
+TA 1: correcting rubric question 5
+TA 1: rubric question 5 changed from 'I' to 'J'
+TA 1: claiming question 4
+TA 1: marking exam 12 question 4
+TA 2: correcting rubric question 3
+TA 2: rubric question 3 changed from 'F' to 'G'
+TA 4: finished marking exam 12 question 1
+TA 4: claiming question 5
+TA 4: marking exam 12 question 5
+TA 5: finished marking exam 12 question 2
+loaded exam for student 13
+TA 5: reviewing rubric
+TA 3: finished marking exam 13 question 3
+TA 3: claiming question 1
+TA 3: marking exam 13 question 1
+TA 2: claiming question 2
+TA 2: marking exam 13 question 2
+TA 1: finished marking exam 13 question 4
+TA 1: claiming question 3
+TA 1: marking exam 13 question 3
+TA 5: correcting rubric question 1
+TA 5: rubric question 1 changed from 'F' to 'G'
+TA 4: finished marking exam 13 question 5
+TA 4: claiming question 4
+TA 4: marking exam 13 question 4
+TA 3: finished marking exam 13 question 1
+TA 3: claiming question 5
+TA 3: marking exam 13 question 5
+TA 5: correcting rubric question 2
+TA 5: rubric question 2 changed from 'G' to 'H'
+TA 5: correcting rubric question 3
+TA 5: rubric question 3 changed from 'G' to 'H'
+TA 1: finished marking exam 13 question 3
+loaded exam for student 14
+TA 1: reviewing rubric
+TA 2: finished marking exam 14 question 2
+TA 2: claiming question 1
+TA 2: marking exam 14 question 1
+TA 4: finished marking exam 14 question 4
+TA 4: claiming question 2
+TA 4: marking exam 14 question 2
+TA 3: finished marking exam 14 question 5
+TA 3: claiming question 3
+TA 3: marking exam 14 question 3
+TA 5: claiming question 4
+TA 5: marking exam 14 question 4
+TA 2: finished marking exam 14 question 1
+TA 2: claiming question 5
+TA 2: marking exam 14 question 5
+TA 1: correcting rubric question 2
+TA 1: rubric question 2 changed from 'H' to 'I'
+TA 4: finished marking exam 14 question 2
+loaded exam for student 15
+TA 4: reviewing rubric
+TA 3: finished marking exam 15 question 3
+TA 3: claiming question 1
+TA 3: marking exam 15 question 1
+TA 1: correcting rubric question 3
+TA 1: rubric question 3 changed from 'H' to 'I'
+TA 4: correcting rubric question 1
+TA 4: rubric question 1 changed from 'G' to 'H'
+TA 5: finished marking exam 15 question 4
+TA 5: claiming question 2
+TA 5: marking exam 15 question 2
+TA 2: finished marking exam 15 question 5
+TA 2: claiming question 3
+TA 2: marking exam 15 question 3
+TA 1: correcting rubric question 4
+TA 1: rubric question 4 changed from 'K' to 'L'
+TA 3: finished marking exam 15 question 1
+TA 3: claiming question 4
+TA 3: marking exam 15 question 4
+TA 5: finished marking exam 15 question 2
+TA 5: claiming question 5
+TA 5: marking exam 15 question 5
+loaded exam for student 16
+TA 1: reviewing rubric
+TA 2: finished marking exam 16 question 3
+TA 2: claiming question 1
+TA 2: marking exam 16 question 1
+TA 3: finished marking exam 16 question 4
+TA 3: claiming question 2
+TA 3: marking exam 16 question 2
+TA 2: finished marking exam 16 question 1
+TA 2: claiming question 3
+TA 2: marking exam 16 question 3
+TA 5: finished marking exam 16 question 5
+TA 5: claiming question 4
+TA 5: marking exam 16 question 4
+TA 4: claiming question 5
+TA 4: marking exam 16 question 5
+TA 3: finished marking exam 16 question 2
+loaded exam for student 17
+TA 3: reviewing rubric
+TA 5: finished marking exam 17 question 4
+TA 5: claiming question 1
+TA 5: marking exam 17 question 1
+TA 4: finished marking exam 17 question 5
+TA 4: claiming question 2
+TA 4: marking exam 17 question 2
+TA 2: finished marking exam 17 question 3
+TA 2: claiming question 3
+TA 2: marking exam 17 question 3
+TA 1: correcting rubric question 4
+TA 1: rubric question 4 changed from 'L' to 'M'
+TA 3: correcting rubric question 3
+TA 3: rubric question 3 changed from 'I' to 'J'
+TA 5: finished marking exam 17 question 1
+TA 5: claiming question 4
+TA 5: marking exam 17 question 4
+TA 4: finished marking exam 17 question 2
+TA 4: claiming question 5
+TA 4: marking exam 17 question 5
+TA 1: correcting rubric question 5
+TA 1: rubric question 5 changed from 'J' to 'K'
+loaded exam for student 18
+TA 1: reviewing rubric
+TA 2: finished marking exam 18 question 3
+TA 2: claiming question 1
+TA 2: marking exam 18 question 1
+TA 5: finished marking exam 18 question 4
+TA 5: claiming question 2
+TA 5: marking exam 18 question 2
+TA 3: correcting rubric question 5
+TA 3: rubric question 5 changed from 'K' to 'L'
+TA 3: claiming question 3
+TA 3: marking exam 18 question 3
+TA 4: finished marking exam 18 question 5
+TA 4: claiming question 4
+TA 4: marking exam 18 question 4
+TA 2: finished marking exam 18 question 1
+TA 2: claiming question 5
+TA 2: marking exam 18 question 5
+TA 5: finished marking exam 18 question 2
+loaded exam for student 19
+TA 5: reviewing rubric
+TA 1: correcting rubric question 4
+TA 1: rubric question 4 changed from 'M' to 'N'
+TA 5: correcting rubric question 1
+TA 5: rubric question 1 changed from 'H' to 'I'
+TA 3: finished marking exam 19 question 3
+TA 3: claiming question 1
+TA 3: marking exam 19 question 1
+TA 4: finished marking exam 19 question 4
+TA 4: claiming question 2
+TA 4: marking exam 19 question 2
+TA 1: claiming question 3
+TA 1: marking exam 19 question 3
+TA 2: finished marking exam 19 question 5
+TA 2: claiming question 4
+TA 2: marking exam 19 question 4
+TA 3: finished marking exam 19 question 1
+TA 3: claiming question 5
+TA 3: marking exam 19 question 5
+TA 4: finished marking exam 19 question 2
+loaded exam for student 20
+TA 4: reviewing rubric
+TA 1: finished marking exam 20 question 3
+TA 1: claiming question 1
+TA 1: marking exam 20 question 1
+TA 5: correcting rubric question 4
+TA 5: rubric question 4 changed from 'N' to 'O'
+TA 2: finished marking exam 20 question 4
+TA 2: claiming question 2
+TA 2: marking exam 20 question 2
+TA 3: finished marking exam 20 question 5
+TA 3: claiming question 3
+TA 3: marking exam 20 question 3
+TA 1: finished marking exam 20 question 1
+TA 1: claiming question 4
+TA 1: marking exam 20 question 4
+TA 5: correcting rubric question 5
+TA 5: rubric question 5 changed from 'L' to 'M'
+TA 5: claiming question 5
+TA 5: marking exam 20 question 5
+TA 4: correcting rubric question 2
+TA 4: rubric question 2 changed from 'I' to 'J'
+TA 2: finished marking exam 20 question 2
+loaded exam for student 9999
+TA 2: reviewing rubric
+TA 1: finished marking exam 9999 question 4
+TA 1: claiming question 1
+TA 1: marking exam 9999 question 1
+TA 5: finished marking exam 9999 question 5
+TA 5: claiming question 2
+TA 5: marking exam 9999 question 2
+TA 3: finished marking exam 9999 question 3
+TA 3: claiming question 3
+TA 3: marking exam 9999 question 3
+TA 2: correcting rubric question 1
+TA 2: rubric question 1 changed from 'I' to 'J'
+TA 1: finished marking exam 9999 question 1
+TA 1: claiming question 4
+TA 1: marking exam 9999 question 4
+TA 3: finished marking exam 9999 question 3
+TA 3: claiming question 5
+TA 3: marking exam 9999 question 5
+TA 4: correcting rubric question 5
+TA 4: rubric question 5 changed from 'M' to 'N'
+TA 4: setting finished flag for student 9999
+TA 5: finished marking exam 9999 question 2
+TA 2: correcting rubric question 3
+TA 2: rubric question 3 changed from 'J' to 'K'
+TA 1: finished marking exam 9999 question 4
+TA 3: finished marking exam 9999 question 5
+TA 2: correcting rubric question 4
+TA 2: rubric question 4 changed from 'O' to 'P'
+TA 2: correcting rubric question 5
+TA 2: rubric question 5 changed from 'N' to 'O'
+all TAs finished marking

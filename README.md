@@ -22,3 +22,7 @@ output will show in terminal
 - ./partb.sh <number of TA's you want>
 
 output will show in terminal
+
+#### test cases:
+
+various different amount of TA's were used to test how scaling of the processes is handled in both part a and part b, refer to reportPartC.pdf for a complete breakdown
