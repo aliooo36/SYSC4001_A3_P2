@@ -125,6 +125,7 @@ void mark_questions(int ta_id, SharedData* data, int semid) { // TA marking a ex
         }
         
         int question = -1;
+        int current_exam_num; // Store exam number locally to avoid race condition
         
         sem_wait(semid, 1);
         for (int i = 0; i < 5; i++) { // parse through all of the exercises
@@ -135,6 +136,7 @@ void mark_questions(int ta_id, SharedData* data, int semid) { // TA marking a ex
                 break;
             }
         }
+        current_exam_num = data->current_student_num; // Capture exam number while protected
         sem_signal(semid, 1);
         
         if (question == -1) { // if all questions were marked for the current exam
@@ -157,10 +159,10 @@ void mark_questions(int ta_id, SharedData* data, int semid) { // TA marking a ex
             continue;
         }
         
-        cout << "TA " << ta_id << ": marking exam " << data->current_student_num << " question " << (question + 1) << endl;
+        cout << "TA " << ta_id << ": marking exam " << current_exam_num << " question " << (question + 1) << endl;
         double delay = random_delay(1.0, 2.0); // marking delay
         usleep(delay * 1000000); // function wide sleep
-        cout << "TA " << ta_id << ": finished marking exam " << data->current_student_num << " question " << (question + 1) << endl;
+        cout << "TA " << ta_id << ": finished marking exam " << current_exam_num << " question " << (question + 1) << endl;
     }
 }
 
