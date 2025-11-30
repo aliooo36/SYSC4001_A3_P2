@@ -16,6 +16,7 @@ struct SharedData {
     int questions_marked[5];
     int current_student_num;
     bool finished;
+    int reviewed_rubric[100];
 };
 
 double random_delay(double min, double max) { // random delay function, used for both reviewing/correcting rubric delay and marking delay
@@ -56,6 +57,9 @@ void load_exam(SharedData* data, int student_num) { // pass in shared memory and
     for (int i = 0; i < 5; i++) {
         data->questions_marked[i] = 0; // parse through the lines of the exam
     }
+    for (int i = 0; i < 100; i++) {
+        data->reviewed_rubric[i] = 0; // Reset reviewed flags for new exam
+    }
     cout << "loaded exam for student " << student_num << endl;
 }
 
@@ -77,7 +81,7 @@ void review_rubric(int ta_id, SharedData* data) { // TA reviews the rubric
         double delay = random_delay(0.5, 1.0); // get the delay
         usleep(delay * 1000000); // function wide sleep
         
-        if (rand() % 2 == 0) { // if a random number happens to fit this condition, since no explict correcting logic was mentioned in the assignment pdf
+        if (rand() % 5 == 0) {
             cout << "TA " << ta_id << ": correcting rubric question " << (i + 1) << endl;
             char current = data->rubric[i][2];
             data->rubric[i][2] = current + 1; // change ASCII by 1
@@ -89,7 +93,13 @@ void review_rubric(int ta_id, SharedData* data) { // TA reviews the rubric
 
 void mark_questions(int ta_id, SharedData* data) { // TA marking a exercise
     while (!data->finished) { // while we still have students to mark
-        int question = -1; 
+        // Check if this TA needs to review rubric for current exam
+        if (data->reviewed_rubric[ta_id - 1] == 0) {
+            review_rubric(ta_id, data);
+            data->reviewed_rubric[ta_id - 1] = 1; // Mark as reviewed
+        }
+        
+        int question = -1;
         
         for (int i = 0; i < 5; i++) { // parse through all of the exercises
             if (data->questions_marked[i] == 0) { // if a question isnt marked
@@ -113,7 +123,6 @@ void mark_questions(int ta_id, SharedData* data) { // TA marking a exercise
                 return;
             }
             load_exam(data, next_student); // load next exam
-            review_rubric(ta_id, data); // review rubric before each exam
             continue;
         }
         
@@ -127,7 +136,7 @@ void mark_questions(int ta_id, SharedData* data) { // TA marking a exercise
 void ta_process(int ta_id, int shmid) { // function to create TA process
     srand(time(NULL) + ta_id); // random seed for TA
     
-    SharedData* data = (SharedData*)shmat(shmid, NULL, 0); // attach the TA process to shared mem 
+    SharedData* data = (SharedData*)shmat(shmid, NULL, 0); // attach to shared memory
     
     mark_questions(ta_id, data); // mark questions
     
