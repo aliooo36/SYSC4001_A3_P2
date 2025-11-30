@@ -1,6 +1,6 @@
 ### Guide to execution
 
-**note, when you run part a and the part b .sh commands, the rubric.txt is restored to it's original state piror to any ASCII modifcations 
+**note, when you run any .sh commands, the rubric.txt is restored to it's original state piror to any ASCII modifcations 
 
 #### [DO THIS FIRST] To compile both part a and b:
 
