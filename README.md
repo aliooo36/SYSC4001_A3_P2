@@ -1,1 +1,5 @@
-# SYSC4001_A3_P2
+For part A:
+
+g++ parta.cpp -o parta
+./parta <number of ta's you want>
+
